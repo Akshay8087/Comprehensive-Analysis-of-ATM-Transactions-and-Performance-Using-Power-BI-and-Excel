@@ -1,0 +1,2 @@
+# Comprehensive-Analysis-of-ATM-Transactions-and-Performance-Using-Power-BI-and-Excel
+Analyzed ATM transaction data to assess performance metrics and operational efficiencies. Created visualizations in Power BI and Excel to highlight transaction patterns, revenue, costs, and uptime. Insights help optimize operational costs, enhance ATM uptime, and improve financial performance and customer satisfaction.
